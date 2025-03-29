@@ -1,0 +1,33 @@
+body{
+    padding-top:70px;
+}
+
+.jumbotron{
+    
+    color:#2c3e51;
+    background-image: url('ipl.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:right;
+    filter: none;
+    
+    
+}
+.algn
+{
+    text-align: center;
+}
+.navbar{
+    background:#2c3e50;
+
+}   
+.thumbnail a img {
+    width: 100px;
+    height: 100px;
+
+}
+
+.navbar-inverse .navbar-nav>li>a,.navbar-inverse .navbar-brand
+{
+    color:white;
+}
