@@ -16,7 +16,7 @@
 </video>
 
 # Simple Website 
-![web1](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web1.png)
+![web1]([https://github.com](https://raw.githubusercontent.com/)/NandanSinghKhani/Full_Stack/blob/main/Output/web1.png)
 ![web2](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web2.png)
 ![web3](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web3.png)
 
