@@ -10,7 +10,10 @@
 
 #PING PONG GAME
 ![Ping](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.png)
-![pong](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.mp4)
+<video width="640" height="360" controls>
+  <source src="[https://raw.githubusercontent.com/your-username/your-repo/main/video.mp4](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.mp4)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 # Simple Website 
 ![web1](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web1.png)
