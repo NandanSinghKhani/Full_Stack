@@ -10,6 +10,7 @@
 
 #PING PONG GAME
 ![Ping](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.png)
+![pong](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.mp4)
 
 # Simple Website 
 ![web1](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web1.png)
