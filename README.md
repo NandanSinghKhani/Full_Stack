@@ -3,16 +3,18 @@
 ![Calculator](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/calculator.png)
 
 # Digital Clock
-http://127.0.0.1:5500/Project_Using_javascript/Clock.html
+![Digital Clock](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/clock.png)
 
 # TO DO LIST 
-http://127.0.0.1:5500/Project_Using_javascript/To-Do_List.html
+![TO_DO_LIST](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/To_do_list.png)
 
 #PING PONG GAME
+![Ping](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.png)
 
-http://127.0.0.1:5500/Project_Using_javascript/Ping_Pong_Game.html
 # Simple Website 
-http://127.0.0.1:5500/app.html
+![web1](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/ping.png)
+![web2](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web2.png)
+![web3](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/web3.png)
 
 
 
