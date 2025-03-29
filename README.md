@@ -1,6 +1,6 @@
 # Full_Stack
 # Calculator
-http://127.0.0.1:5500/Project_Using_javascript/Calculator.html
+[http://127.0.0.1:5500/Project_Using_javascript/Calculator.html](https://github.com/NandanSinghKhani/Full_Stack/blob/main/Output/calculator.png)
 
 # Digital Clock
 http://127.0.0.1:5500/Project_Using_javascript/Clock.html
